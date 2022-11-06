@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Kakoito ne botik</h3>
 
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1500&width=1000&lines=Andrej+ne+nn+on+pro+andrej+pishet+na+js+php+cs+cp](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1500&width=1000&lines=Andrej+ne+nn+on+pro+andrej+pishet+na+js+php+cs+cpp))](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Andrej+ne+nn+on+pro+andrej+pishet+na+js+php+cs+cpp" alt="Typing SVG" /></a>
