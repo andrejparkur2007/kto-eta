@@ -1,1 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/andrejparkur2007/kto-eta)
+<h1 align="center">Hi there, I'm <a href="https://www.groznij.tk" target="_blank">Andrej</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Kakoito ne botik</h3>
+
+<a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1500&width=1000&lines=Andrej+ne+nn+on+pro+andrej+pishet+na+js+php+cs+cpp" alt="Typing SVG" /></a>
